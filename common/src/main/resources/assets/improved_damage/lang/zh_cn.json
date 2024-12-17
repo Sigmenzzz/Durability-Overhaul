@@ -1,0 +1,12 @@
+{
+  "block.improved_damage.broken_anvil": "报废的铁砧",
+  "block.improved_damage.enchanter": "附魔桌",
+  "block.improved_damage.chipped_enchanter": "开裂的附魔桌",
+  "block.improved_damage.damaged_enchanter": "损坏的附魔桌",
+  "block.improved_damage.broken_enchanter": "报废的附魔桌",
+  "container.improved_damage.enchant": "施加附魔",
+  "container.improved_damage.enchant.cost": "附魔花费：%1$s",
+  "enchantment.improved_damage.durable": "经久不衰",
+  "item.improved_damage.durability": "耐久度",
+  "item.improved_damage.broken": "报废的"
+}
